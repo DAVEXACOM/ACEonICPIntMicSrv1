@@ -12,6 +12,8 @@
 		<list key="textArray">
 		</list>
 	</section>
+	<section name="NewWizardAction">
+	</section>
 	<section name="ImportExportAction">
 		<item value="com.ibm.bpm.common.ui.project.interchange.ProjectInterchangeExport" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
 		<item value="com.ibm.bpm.common.ui.project.interchange.ProjectInterchangeImport" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
