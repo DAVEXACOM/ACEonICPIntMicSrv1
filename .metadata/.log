@@ -259,3 +259,40 @@ Command-line arguments:  -data C:\Users\DavidArnold\IBM\ACET11\ACEonICPIntMicSrv
 
 !ENTRY com.ibm.etools.mft.pattern.community 4 0 2018-11-10 12:31:55.546
 !MESSAGE Connection error occurred : ot4i.github.io
+!SESSION 2018-12-14 12:03:17.623 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.5.20 - pwa6480sr5fp20-20180802_01(SR5 FP20)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20180731_393394 (JIT enabled, AOT enabled)
+OpenJ9   - bd23af8
+OMR      - ca1411c
+IBM      - 98805ca
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2018-12-14 12:03:35.973
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2018-12-14 12:03:43.694
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-12-14 12:03:43.703
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-12-14 12:03:43.706
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2018-12-14 12:03:44.353
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-12-14 12:05:26.276
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-12-14 12:05:26.279
+!MESSAGE C:\Program Files\IBM\ACE\11.0.0.2\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-12-14 12:05:26.498
+!MESSAGE BIP8100I: Unable to detect an installation of IBM MQ 
+
+!ENTRY com.ibm.mq.runtime 4 0 2018-12-14 12:05:26.545
+!MESSAGE WebSphere MQ install location is not found.

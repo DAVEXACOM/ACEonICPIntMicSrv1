@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_09_WYeSHEeitcagTXTiTcQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_09_WYuSHEeitcagTXTiTcQ" bindingContexts="_09_WaOSHEeitcagTXTiTcQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.bar.editor&quot; name=&quot;Microservice1.bar&quot; tooltip=&quot;BARfiles/Microservice1.bar&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BARfiles/Microservice1.bar&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;com.ibm.bpm.gettingstarted.editor.GettingStartedEditorElementFactory&quot; id=&quot;com.ibm.bpm.gettingstarted.noeditor.NoEditorEditor&quot; name=&quot;IBM App Connect Enterprise Toolkit&quot; tooltip=&quot;Getting Started - IBM App Connect Enterprise Toolkit&quot;>&#xD;&#xA;&lt;persistable gettingStartedID=&quot;com.ibm.etools.mft.gettingstarted&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.bar.editor&quot; name=&quot;Microservice1.bar&quot; tooltip=&quot;BARfiles/Microservice1.bar&quot;>&#xD;&#xA;&lt;persistable path=&quot;/BARfiles/Microservice1.bar&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.restapi.ui.editors.Editor&quot; name=&quot;restapi.descriptor&quot; tooltip=&quot;Microservice1/restapi.descriptor&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Microservice1/restapi.descriptor&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.subflow.editor&quot; name=&quot;add.subflow&quot; tooltip=&quot;Microservice1/add.subflow&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Microservice1/add.subflow&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;com.ibm.bpm.gettingstarted.editor.GettingStartedEditorElementFactory&quot; id=&quot;com.ibm.bpm.gettingstarted.noeditor.NoEditorEditor&quot; name=&quot;IBM App Connect Enterprise Toolkit&quot; tooltip=&quot;Getting Started - IBM App Connect Enterprise Toolkit&quot;>&#xD;&#xA;&lt;persistable gettingStartedID=&quot;com.ibm.etools.mft.gettingstarted&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_09_WYuSHEeitcagTXTiTcQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_1UzT4uSHEeitcagTXTiTcQ" label="%trimmedwindow.label.eclipseSDK" x="32" y="32" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_09_WYuSHEeitcagTXTiTcQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_1UzT4uSHEeitcagTXTiTcQ" label="%trimmedwindow.label.eclipseSDK" x="32" y="32" width="1636" height="958">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
@@ -67,11 +67,10 @@
           <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
           <tags>persp.perspSC:org.eclipse.jdt.ui.JavaPerspective</tags>
           <tags>persp.newWizSC:com.ibm.hcls.sdg.ui.newprojectwizard.DataAnalysisNewWizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_1egpguSHEeitcagTXTiTcQ" selectedElement="_1egpg-SHEeitcagTXTiTcQ" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_1egpguSHEeitcagTXTiTcQ" selectedElement="_1egpjOSHEeitcagTXTiTcQ" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_1egpg-SHEeitcagTXTiTcQ" containerData="3000" selectedElement="_1egphOSHEeitcagTXTiTcQ">
               <children xsi:type="basic:PartStack" xmi:id="_1egphOSHEeitcagTXTiTcQ" elementId="topLeft" containerData="6600" selectedElement="_1egpheSHEeitcagTXTiTcQ">
                 <tags>newtablook</tags>
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_1egpheSHEeitcagTXTiTcQ" elementId="com.ibm.etools.mft.navigator.resource" ref="_1dy30OSHEeitcagTXTiTcQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_1egphuSHEeitcagTXTiTcQ" elementId="com.ibm.etools.patterns.views.PatternExplorerView" ref="_1dy30eSHEeitcagTXTiTcQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_1egph-SHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_1d1UEOSHEeitcagTXTiTcQ"/>
@@ -84,17 +83,17 @@
               </children>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_1egpjOSHEeitcagTXTiTcQ" containerData="7000" selectedElement="_1egpjeSHEeitcagTXTiTcQ" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_1egpjeSHEeitcagTXTiTcQ" containerData="7000" selectedElement="_1egpjuSHEeitcagTXTiTcQ">
-                <children xsi:type="basic:PartSashContainer" xmi:id="_1egpjuSHEeitcagTXTiTcQ" containerData="6600" selectedElement="_1egpkeSHEeitcagTXTiTcQ" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_1egpjeSHEeitcagTXTiTcQ" containerData="7000" selectedElement="_1egpkuSHEeitcagTXTiTcQ">
+                <children xsi:type="basic:PartSashContainer" xmi:id="_1egpjuSHEeitcagTXTiTcQ" containerData="6383" selectedElement="_1egpkeSHEeitcagTXTiTcQ" horizontal="true">
                   <children xsi:type="basic:PartStack" xmi:id="_1egpj-SHEeitcagTXTiTcQ" elementId="org.eclipse.gef.ui.palette_viewMStack" toBeRendered="false" containerData="1800">
                     <tags>newtablook</tags>
                     <children xsi:type="advanced:Placeholder" xmi:id="_1egpkOSHEeitcagTXTiTcQ" elementId="org.eclipse.gef.ui.palette_view" toBeRendered="false" ref="_1d2iNOSHEeitcagTXTiTcQ"/>
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_1egpkeSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.editorss" containerData="8200" ref="_1dhyEOSHEeitcagTXTiTcQ"/>
                 </children>
-                <children xsi:type="basic:PartStack" xmi:id="_1egpkuSHEeitcagTXTiTcQ" elementId="taskArea" containerData="3400" selectedElement="_1egplOSHEeitcagTXTiTcQ">
+                <children xsi:type="basic:PartStack" xmi:id="_1egpkuSHEeitcagTXTiTcQ" elementId="taskArea" containerData="3617" selectedElement="_1egpk-SHEeitcagTXTiTcQ">
                   <tags>newtablook</tags>
-                  <tags>noFocus</tags>
+                  <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_1egpk-SHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_1d2iMOSHEeitcagTXTiTcQ"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_1egplOSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ProblemView" ref="_1d2iMeSHEeitcagTXTiTcQ"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_1egpleSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ContentOutline" ref="_1d2iMuSHEeitcagTXTiTcQ"/>
@@ -133,7 +132,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_1dhyEOSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.editorss" selectedElement="_1dhyEeSHEeitcagTXTiTcQ">
-      <children xsi:type="basic:PartStack" xmi:id="_1dhyEeSHEeitcagTXTiTcQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_jcBfAOSIEeiQKbSdMBuYhw">
+      <children xsi:type="basic:PartStack" xmi:id="_1dhyEeSHEeitcagTXTiTcQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_Ylg6MP88EeiMq7ID9TAXRw">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
@@ -143,14 +142,24 @@
           <tags>com.ibm.etools.mft.bar.editor</tags>
           <tags>removeOnHide</tags>
         </children>
+        <children xsi:type="basic:Part" xmi:id="_Ylg6MP88EeiMq7ID9TAXRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="add.subflow" iconURI="platform:/plugin/com.ibm.etools.mft.flow/icons/full/view16/subflow_view.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.ibm.etools.mft.subflow.editor&quot; name=&quot;add.subflow&quot; partName=&quot;add.subflow&quot; title=&quot;add.subflow&quot; tooltip=&quot;Microservice1/add.subflow&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Microservice1/add.subflow&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>com.ibm.etools.mft.subflow.editor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_EbiewP89EeiMq7ID9TAXRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Microservice1" iconURI="platform:/plugin/com.ibm.etools.mft.restapi.ui/icons/full/obj16/rest_api_editor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.ibm.etools.mft.restapi.ui.editors.Editor&quot; name=&quot;restapi.descriptor&quot; partName=&quot;Microservice1&quot; title=&quot;Microservice1&quot; tooltip=&quot;Microservice1/restapi.descriptor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Microservice1/restapi.descriptor&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>com.ibm.etools.mft.restapi.ui.editors.Editor</tags>
+          <tags>removeOnHide</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_1dy30OSHEeitcagTXTiTcQ" elementId="com.ibm.etools.mft.navigator.resource" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Application Development" iconURI="platform:/plugin/com.ibm.etools.mft.navigator/icons/full/view16/msgflow_perspective.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view ProjectsMode=&quot;AppLib&quot; project_scrollbar_horizontal=&quot;0&quot; project_scrollbar_vertical=&quot;0&quot; sectionExpansion=&quot;ONLY_PROJECTS&quot; sectionExpansionFirstWeight=&quot;100&quot; sorter=&quot;0&quot; workingSetName=&quot;&quot;>&#xD;&#xA;&lt;filters>&#xD;&#xA;&lt;filter element=&quot;Empty Parent Broker Schemas&quot;/>&#xD;&#xA;&lt;filter element=&quot;Empty Parent Message Namespaces&quot;/>&#xD;&#xA;&lt;filter element=&quot;Groups (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;.*&quot;/>&#xD;&#xA;&lt;filter element=&quot;Elements And Attributes (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;Messages (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;Types (Schema Files)&quot;/>&#xD;&#xA;&lt;/filters>&#xD;&#xA;&lt;selection>&#xD;&#xA;&lt;element path=&quot;11*6&quot;/>&#xD;&#xA;&lt;/selection>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;element path=&quot;Microservice1|Resources&quot;/>&#xD;&#xA;&lt;element path=&quot;Microservice1|Resources|Maps&quot;/>&#xD;&#xA;&lt;element path=&quot;BARs&quot;/>&#xD;&#xA;&lt;element path=&quot;Independent Resources&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;elementMap name=&quot;[Microservice1]&quot;>&#xD;&#xA;&lt;item factoryID=&quot;org.eclipse.ui.internal.model.ResourceFactory&quot; path=&quot;/Microservice1&quot; type=&quot;4&quot;/>&#xD;&#xA;&lt;/elementMap>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view ProjectsMode=&quot;AppLib&quot; project_scrollbar_horizontal=&quot;0&quot; project_scrollbar_vertical=&quot;0&quot; sectionExpansion=&quot;ONLY_PROJECTS&quot; sectionExpansionFirstWeight=&quot;100&quot; sorter=&quot;0&quot; workingSetName=&quot;&quot;>&#xD;&#xA;&lt;filters>&#xD;&#xA;&lt;filter element=&quot;Empty Parent Broker Schemas&quot;/>&#xD;&#xA;&lt;filter element=&quot;Empty Parent Message Namespaces&quot;/>&#xD;&#xA;&lt;filter element=&quot;Groups (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;.*&quot;/>&#xD;&#xA;&lt;filter element=&quot;Elements And Attributes (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;Messages (Schema Files)&quot;/>&#xD;&#xA;&lt;filter element=&quot;Types (Schema Files)&quot;/>&#xD;&#xA;&lt;/filters>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;element path=&quot;Microservice1&quot;/>&#xD;&#xA;&lt;element path=&quot;Microservice1|Resources&quot;/>&#xD;&#xA;&lt;element path=&quot;Microservice1|Resources|Subflows&quot;/>&#xD;&#xA;&lt;element path=&quot;BARs&quot;/>&#xD;&#xA;&lt;element path=&quot;Independent Resources&quot;/>&#xD;&#xA;&lt;element path=&quot;Independent Resources|BARfiles&quot;/>&#xD;&#xA;&lt;element path=&quot;Independent Resources|BARfiles|BARs&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;elementMap name=&quot;[Microservice1]&quot;>&#xD;&#xA;&lt;item factoryID=&quot;org.eclipse.ui.internal.model.ResourceFactory&quot; path=&quot;/Microservice1&quot; type=&quot;4&quot;/>&#xD;&#xA;&lt;/elementMap>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Integration Development</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_1kTIcOSHEeitcagTXTiTcQ" elementId="com.ibm.etools.mft.navigator.resource">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -193,11 +202,13 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_15WycOSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.PropertySheet">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_15WyceSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.PropertySheet" visible="false"/>
+      <toolbar xmi:id="_15WyceSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.PropertySheet"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_1d2iMeSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" closeable="true">
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;120&quot; org.eclipse.ui.ide.markerType=&quot;120&quot; org.eclipse.ui.ide.pathField=&quot;160&quot; org.eclipse.ui.ide.resourceField=&quot;120&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;400&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
@@ -207,7 +218,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_2INt0eSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ProblemView"/>
+      <toolbar xmi:id="_2INt0eSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ProblemView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_1d2iMuSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" closeable="true">
       <tags>View</tags>
@@ -232,7 +243,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1Y5JsuSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ZoYasuSIEeiQKbSdMBuYhw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_0_KbGOSHEeitcagTXTiTcQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Ga-cYv88EeiMq7ID9TAXRw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_0_KbGOSHEeitcagTXTiTcQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1Y7l8OSHEeitcagTXTiTcQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -256,7 +267,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1Y7l9OSHEeitcagTXTiTcQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Zoa28OSIEeiQKbSdMBuYhw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_0_AFEeSHEeitcagTXTiTcQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_GbCt0P88EeiMq7ID9TAXRw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_0_AFEeSHEeitcagTXTiTcQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1Y7l9eSHEeitcagTXTiTcQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
